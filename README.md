@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning software automation in Java
 - 📫 How to reach me: 
 {
-  instagram: @yuri.ssoares,
+  instagram: @yurissoares,
   email: ssoares.yuri@gmail.com
 }
 
